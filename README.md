@@ -14,12 +14,12 @@ Para isso, vamos criar uma automação web:
 Usaremos o selenium
 Importante: baixar o webdriver(Chrome)
 In [1]:
-# Passo 1 : Pegar Cotação do Dólar
-# Passo 2 : Pegar Cotação do Euro
-# Passo 3 : Pegar Cotação do Ouro
-# Passo 4 : Importar a Base de Dados
-# Passo 5 : Atualizar a Cotação, o Preço de Compra e Preço de Venda
-# Passo 6 : Exportar o Relatório Atualizado
+Passo 1 : Pegar Cotação do Dólar
+Passo 2 : Pegar Cotação do Euro
+Passo 3 : Pegar Cotação do Ouro
+Passo 4 : Importar a Base de Dados
+Passo 5 : Atualizar a Cotação, o Preço de Compra e Preço de Venda
+Passo 6 : Exportar o Relatório Atualizado
 
-# Instalar o Selenium
-# Baixar o WebDriver(Neste projeto será utilizado o do Chrome)
+Instalar o Selenium
+Baixar o WebDriver(Neste projeto foi utilizado o do chromedriver)
